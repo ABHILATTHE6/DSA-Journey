@@ -70,3 +70,15 @@ Consistency over intensity. Progress is tracked through meaningful daily commits
 
 **Abhishek Latthe**  
 GitHub: [@ABHILATTHE6](https://github.com/ABHILATTHE6)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
