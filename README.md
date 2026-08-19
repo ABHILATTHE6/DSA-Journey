@@ -94,3 +94,19 @@ GitHub: [@ABHILATTHE6](https://github.com/ABHILATTHE6)
 ---
 
 ⭐ If this repository helps you, feel free to follow the journey and explore the solutions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0242-valid-anagram/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0242-valid-anagram/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0242-valid-anagram](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0242-valid-anagram/) | Easy |
+<!---LeetCode Topics End-->
