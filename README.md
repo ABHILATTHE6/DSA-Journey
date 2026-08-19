@@ -100,6 +100,7 @@ GitHub: [@ABHILATTHE6](https://github.com/ABHILATTHE6)
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0242-valid-anagram/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -108,5 +109,22 @@ GitHub: [@ABHILATTHE6](https://github.com/ABHILATTHE6)
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0242-valid-anagram/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0169-majority-element/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
