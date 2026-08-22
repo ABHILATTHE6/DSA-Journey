@@ -117,6 +117,7 @@ GitHub: [@ABHILATTHE6](https://github.com/ABHILATTHE6)
 | ------- | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0169-majority-element/) | Easy |
+| [0283-move-zeroes](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0283-move-zeroes/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -134,6 +135,7 @@ GitHub: [@ABHILATTHE6](https://github.com/ABHILATTHE6)
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0283-move-zeroes](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0283-move-zeroes/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
