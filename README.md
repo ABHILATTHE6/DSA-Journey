@@ -114,6 +114,7 @@ GitHub: [@ABHILATTHE6](https://github.com/ABHILATTHE6)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0169-majority-element/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -127,4 +128,12 @@ GitHub: [@ABHILATTHE6](https://github.com/ABHILATTHE6)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0169-majority-element/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/ABHILATTHE6/DSA-Journey/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 <!---LeetCode Topics End-->
